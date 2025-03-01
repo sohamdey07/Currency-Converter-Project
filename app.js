@@ -5,7 +5,7 @@ const btn=document.querySelector(".btn");
 const fromCurr=document.querySelector(".from select");
 const toCurr=document.querySelector(".to select");
 const msg=document.querySelector(".msg");
-const access_key="308919e5a45a8a18129fa2571f83d608";
+const access_key="";
 
 
 window.addEventListener("load",()=>{
