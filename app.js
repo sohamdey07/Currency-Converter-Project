@@ -5,7 +5,7 @@ const btn=document.querySelector(".btn");
 const fromCurr=document.querySelector(".from select");
 const toCurr=document.querySelector(".to select");
 const msg=document.querySelector(".msg");
-const access_key="";
+const access_key="ADD_API_KEY";
 
 
 window.addEventListener("load",()=>{
